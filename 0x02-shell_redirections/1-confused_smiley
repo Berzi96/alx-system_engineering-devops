@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 1-confused_smiley
+printf '1-confused_smiley'
